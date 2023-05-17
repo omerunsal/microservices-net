@@ -15,6 +15,7 @@ namespace CommandsService.Controllers
         {
             System.Console.WriteLine("TEST POST from Command Service");
             return Ok("Inbound test of from Platforms Controller");
+            
         }
     }
 }
