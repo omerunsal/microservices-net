@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tSZHNM3HDU1HISajyxwTarOSKKbDWr4Vpvy06wu5iA+lFrtFg6v/RuW9DsZ/UK+l0licnmn6u6ydT94VlGYDzA==",
+  "dgSpecHash": "pEN930PiRcjuUN/iC2805REMrBbwE8RtJ7btT3BMDKlw7beFxgunvOwlwkYXjIv7HyPHM9pxN1Fix4zDMbatig==",
   "success": true,
-  "projectFilePath": "/home/omer/RiderProjects/PlatformService/PlatformService.csproj",
+  "projectFilePath": "/home/omer/RiderProjects/s4/e3/PlatformService/PlatformService.csproj",
   "expectedPackageFiles": [
     "/home/omer/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/omer/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
