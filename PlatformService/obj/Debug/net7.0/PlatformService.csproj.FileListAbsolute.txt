@@ -156,3 +156,4 @@
 /home/omer/RiderProjects/s4/e3/PlatformService/obj/Debug/net7.0/PlatformService.pdb
 /home/omer/RiderProjects/s4/e3/PlatformService/obj/Debug/net7.0/PlatformService.genruntimeconfig.cache
 /home/omer/RiderProjects/s4/e3/PlatformService/obj/Debug/net7.0/ref/PlatformService.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/appsettings.Production.json
