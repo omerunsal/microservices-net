@@ -42,3 +42,9 @@
 /home/omer/RiderProjects/s4/e3/CommandsService/obj/Debug/net7.0/CommandsService.pdb
 /home/omer/RiderProjects/s4/e3/CommandsService/obj/Debug/net7.0/CommandsService.genruntimeconfig.cache
 /home/omer/RiderProjects/s4/e3/CommandsService/obj/Debug/net7.0/ref/CommandsService.dll
+/home/omer/RiderProjects/s4/e3/CommandsService/bin/Debug/net7.0/appsettings.Production.json
+/home/omer/RiderProjects/s4/e3/CommandsService/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/omer/RiderProjects/s4/e3/CommandsService/bin/Debug/net7.0/Google.Protobuf.dll
+/home/omer/RiderProjects/s4/e3/CommandsService/bin/Debug/net7.0/Grpc.Core.Api.dll
+/home/omer/RiderProjects/s4/e3/CommandsService/bin/Debug/net7.0/Grpc.Net.Client.dll
+/home/omer/RiderProjects/s4/e3/CommandsService/bin/Debug/net7.0/Grpc.Net.Common.dll

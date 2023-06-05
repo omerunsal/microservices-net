@@ -157,3 +157,11 @@
 /home/omer/RiderProjects/s4/e3/PlatformService/obj/Debug/net7.0/PlatformService.genruntimeconfig.cache
 /home/omer/RiderProjects/s4/e3/PlatformService/obj/Debug/net7.0/ref/PlatformService.dll
 /home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/appsettings.Production.json
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/RabbitMQ.Client.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/Google.Protobuf.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/Grpc.AspNetCore.Server.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/Grpc.Core.Api.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/Grpc.Net.Client.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/Grpc.Net.ClientFactory.dll
+/home/omer/RiderProjects/s4/e3/PlatformService/bin/Debug/net7.0/Grpc.Net.Common.dll
